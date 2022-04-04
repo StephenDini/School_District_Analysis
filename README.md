@@ -39,4 +39,5 @@ No change can be seen
 
 In summary, removing the scores from the Thomas High Schools's 9th grade affects the scores at a negligable amount. No change can be noticed in spending, type, or size. 
 
-Thomas High School still maintains second in top 5 preforming schools. 
+![Top Five](Resources/top5.png)
+Thomas High School still maintains second in top five preforming schools. 

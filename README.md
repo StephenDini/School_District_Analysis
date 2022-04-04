@@ -6,12 +6,12 @@ It has been discovered that the data from the 9th graders at Thomas High School 
 
 # Comparison
 ## District Summery
-!(District Summery)[Resources/district_summery_comp.png]
+![District Summery](Resources/district_summery_comp.png)
 
 The district summery has not changed much. The data is comperable to the privous data without the removal of Thomas High School's 9th grade
 
 ## School Summary
-!(School Summery)[Resources/per_school_summery_comp.png]
+![School Summery](Resources/per_school_summery_comp.png)
 
 There was a slight drop in averages as can be seen in the School Summary.
 
@@ -25,13 +25,13 @@ Very little is affected, Thomas still maintains second in the top five preformin
 A small drop in average can be noticed.
 
 * Scores by school spending
-!(School Spending)[Resources/spending.png]
+![School Spending](Resources/spending.png)
 No change can be seen
 * Scores by school size
-!(School Spending)[Resources/size.png]
+![School Spending](Resources/size.png)
 No change can be seen
 * Scores by school type
-!(School Spending)[Resources/type.png]
+![School Spending](Resources/type.png)
 No change can be seen
 
 
